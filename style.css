@@ -1,13 +1,13 @@
 footer {
   text-align: center;
-  background-color: black;
-  color: white;
+  background-color: #1e1e1e;
+  color: #919199;
+  font-size: 12px;
 }
 
-.small-front {
-  font-size: 10px;
-}
-
-#big-font {
-  font-size: 50px;
+.mainbox {
+  border: 1px solid #ebebeb;
+  width: 610px;
+  margin: 0 auto;
+  text-align: center;
 }
