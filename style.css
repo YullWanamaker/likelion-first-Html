@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 * {
   font-family: "Montserrat", sans-serif;
@@ -23,6 +23,7 @@ h2 {
   color: #282828;
   border-bottom: 1px solid #ebebeb;
   padding-bottom: 5px;
+  margin-bottom: 16px;
 }
 
 .name-text {
@@ -46,4 +47,47 @@ footer {
   color: #919199;
   font-size: 12px;
   padding: 20px;
+}
+
+section {
+  margin-bottom: 24px;
+}
+
+.name-text {
+  font-size: 16px;
+  color: #7c7c7c;
+  font-weight: bold;
+}
+
+.about-me-text {
+  font-size: 10px;
+  line-height: 16px;
+}
+
+.title-text {
+  font-size: 11px;
+  font-weight: bold;
+  color: #282828;
+  float: left;
+}
+
+.year-text {
+  font-size: 11px;
+  font-weight: bold;
+  color: #282828;
+  float: right;
+}
+
+.float-wrap {
+  overflow: hidden;
+}
+
+.desc-text {
+  font-size: 9px;
+  color: #282828;
+}
+.decc-subtext {
+  font-size: 9px;
+  color: #282828;
+  padding-left: 16px;
 }
