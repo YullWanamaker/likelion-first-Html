@@ -11,6 +11,10 @@ h2 {
   padding: 0px;
 }
 
+.title-box {
+  text-align: right;
+}
+
 h1 {
   font-size: 30px;
   font-weight: bold;
@@ -62,6 +66,14 @@ section {
 .about-me-text {
   font-size: 10px;
   line-height: 16px;
+  margin: 0;
+}
+
+.about-me-text-bible {
+  font-size: 10px;
+  line-height: 16px;
+  margin: 0;
+  font-weight: bold;
 }
 
 .title-text {
@@ -90,4 +102,13 @@ section {
   font-size: 9px;
   color: #282828;
   padding-left: 16px;
+}
+
+.sns-image {
+  width: 12px;
+  height: 12px;
+}
+
+.sns-rap {
+  text-align: right;
 }
